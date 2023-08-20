@@ -18,6 +18,7 @@ p {
 .form-layout {
    display: flex;
    flex-direction: row;
+   border-top: white solid 1px
 }
 
 .colonne-form {
@@ -46,6 +47,10 @@ p {
 
 .form-border p {
    margin-left:40px;
+}
+
+form input [type="text"] {
+   width: auto !important;
 }
 
 /* formulaire des commandes mise en page des + et- */
