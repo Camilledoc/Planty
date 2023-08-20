@@ -49,10 +49,6 @@ p {
    margin-left:40px;
 }
 
-form input [type="text"] {
-   width: auto !important;
-}
-
 /* formulaire des commandes mise en page des + et- */
 .quantity {
    position: relative;
